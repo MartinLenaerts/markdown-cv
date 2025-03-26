@@ -1,65 +1,91 @@
-# markdown-cv
+# Martin Lenaerts
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+**Full Stack Developer** passionate about web and mobile technologies.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+---
 
-***
+## 📍 Personal Information
+- **Location**: Christchurch, New Zealand
+- **Phone**: 027 210 5783
+- **Email**: martin.lenaerts@hotmail.fr
+- **LinkedIn**: [linkedin.com/in/martin-lenaerts](https://www.linkedin.com/in/martin-lenaerts-2676b2131/)
+- **GitHub**: [github.com/martinlenaerts](https://github.com/martinlenaerts)
 
-## Customization
+---
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+## 📝 Professional Summary
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+Full Stack Developer with extensive experience in web and mobile application development. Strong background in JavaScript, React, and Symfony, with a passion for building scalable, high-performance solutions. Highly skilled in Agile methodologies and collaborative team environments. Currently seeking new challenges and opportunities in New Zealand’s tech industry.
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+---
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## 🛠️ Key Skills
 
-adding your skills, jobs and education.
+### **Technical Skills**
+- **Languages**: JavaScript (React, Node.js), PHP, Python  
+- **Frameworks**: ReactJS, React Native, Symfony, Vue.js, Spring Boot
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase  
+- **Tools**: Docker, GitLab CI, Git, GCP 
+- **Methodologies**: Agile, Scrum, DevOps  
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+### **Soft Skills**
+- Strong communication and collaboration skills  
+- Problem-solving and troubleshooting  
+- Detail-oriented with a focus on quality control  
+- Self-motivated and proactive in fast-paced environments
 
-## Distribution
+---
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+## 💼 Work Experience
 
-### I. Use Github Pages to publish it online
+### **Software Engineer | Ecocea Technologies**  
+*2023 – Present*  
+- Developed and maintained a React Native iOS app for Sephora, enhancing in-store beauty advisor support with product listings and skin analysis features.  
+- Gained expertise in React Native, React.js, and Spring Boot while contributing to various projects.  
+- Collaborated in an Agile environment with cross-functional teams to meet tight deadlines.
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+### **Software Engineer | Qard**  
+*2021 – 2023*  
+- Developed and maintained a Symfony 4 API used by B2B clients to assess the financial and judicial reliability of companies.  
+- Gained experience in PHP, Symfony, GitLab CI/CD, and API development.  
+- Contributed to the improvement of code quality and application performance.
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+### **Full Stack Developer | SEPEFREI Junior Entreprise**  
+*2021*  
+- Developed an HR tool using WordPress and PHP, enabling employees to complete questionnaires and analyze results with graphical reports.  
+- Built a web app for an engineering school event using Vue.js and Firebase, managing student participation and raffle systems.
 
-### II. Build it locally and print a PDF
+### **Full Stack Developer (Apprenticeship) | ZATYOO**  
+*2019 – 2020*  
+- Developed a POS (Point of Sale) software for restaurant stock, sales, and customer management using PHP, JavaScript/jQuery, and MySQL.
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+### **Full Stack Developer (Internship) | LINVEST**  
+*April 2019 – June 2019*  
+- Developed a software system for managing electronic card production.  
+- Implemented real-time tracking and production time calculations using PHP and JavaScript.
 
-## Styling
+---
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+## 🎓 Education
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+### **Engineering Degree in Software Engineering**  
+*2023 | Paris, France*
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+### **Professional Licence in Mobile Application Development**  
+*2020 | Nice, France* 
 
-### Author
+### **IT Degree in Computer Science, Web Specialisation**  
+*2019 | Reims, France*
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+---
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+## 🌍 Languages
 
-### License
+- **French**: Native 🇫🇷  
+- **English**: Fluent 🇬🇧 (TOEIC 900)  
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+---
+
+## 📑 References
+
+Available upon request.
